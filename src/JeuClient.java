@@ -2,7 +2,7 @@
  * Gestion du jeu côté client
  *
  */
-public class JeuClient extends Jeu {
+public abstract class JeuClient extends Jeu {
 	
 	/**
 	 * Controleur
